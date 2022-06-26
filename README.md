@@ -3,11 +3,19 @@
 Made with Powershell 
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
 
-#Usage
+
+## Installation
+```git
+#Clone Repo
+ PS D:\Projects\Powershell\>git clone https://github.com/agsamgian/psl-liveprocess
+```
+
+## Usage
  ```ps1
  PS D:\Projects\Powershell\> & main.ps1
  ```
  
- #Demo
+ ## Demo
  
 <img src="ps1.png" width="500px">
+
