@@ -17,5 +17,5 @@ PS D:\Projects\Powershell\>git clone https://github.com/agsamgian/psl-liveproces
  
  ## Demo
  
-<img src="ps1.png" width="500px">
+<img src="ps1.png" width="650px">
 
