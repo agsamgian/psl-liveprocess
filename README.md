@@ -1,13 +1,13 @@
 # PSL-Liveprocess
 
-Made with Powershell 
+Made with Powershell <br>
 <img src="https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white">
 
 
 ## Installation
-```git
+```hs
 #Clone Repo
- PS D:\Projects\Powershell\>git clone https://github.com/agsamgian/psl-liveprocess
+PS D:\Projects\Powershell\>git clone https://github.com/agsamgian/psl-liveprocess
 ```
 
 ## Usage
